@@ -1,5 +1,5 @@
 ### Hi there, I am Harshad Aggarwal👋
-
+[![Codeforces](assets/badges/codeforces.svg)](https://codeforces.com/profile/harshad2112) [![Atcoder](assets/badges/atcoder.svg)](https://atcoder.jp/users/iSuckAtCode) [![Codechef](assets/badges/codechef.svg)](https://codechef.com/users/harshad2112)
 <!--
 **harshad2112/harshad2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
