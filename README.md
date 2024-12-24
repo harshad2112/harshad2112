@@ -1,4 +1,4 @@
-### Hi there, I am Harshad Aggarwal👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+%E2%9C%A8+I+am+Harshad+Aggarwal)](https://github.com/harshad2112)
 [![Codeforces](assets/badges/codeforces.svg)](https://codeforces.com/profile/harshad2112) [![Atcoder](assets/badges/atcoder.svg)](https://atcoder.jp/users/iSuckAtCode) [![Codechef](assets/badges/codechef.svg)](https://codechef.com/users/harshad2112)
 <!--
 **harshad2112/harshad2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
