@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 🌐 Connect
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad2112/)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@hahashad_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshad2112)
+
 <h3>Thanks! for visiting</h3>
-<p>
-    <img src="https://profile-counter.glitch.me/{harshad2112}/count.svg" alt="Visitor Count"  id='count' />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshad2112&label=Profile%20views&color=0e75b6&style=flat" alt="harshad2112"/> </p>
