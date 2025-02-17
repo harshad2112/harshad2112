@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>Thanks! for visiting</h3>
+<p>
+    <img src="https://profile-counter.glitch.me/{harshad2112}/count.svg" alt="Visitor Count"  id='count' />
+</p>
